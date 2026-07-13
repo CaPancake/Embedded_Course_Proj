@@ -5,8 +5,8 @@
   * @brief          : Main program body
   *
   * Presented by:
-  * Michal Ben Haim - 318775046
-  * Shani Haker - 316376748
+  * Michal Ben Haim - *******
+  * Shani Haker - *******
   *
   ******************************************************************************
   * @attention
